@@ -1,0 +1,17 @@
+CREATE TABLE TranslationEntity (
+    translationKey TEXT PRIMARY KEY NOT NULL,
+    translationLanguage TEXT NOT NULL,
+    translationId INTEGER NOT NULL,
+    active INTEGER NOT NULL,
+    translationValue TEXT NOT NULL
+);
+
+selectAll:
+SELECT * FROM TranslationEntity;
+
+insertUpdate:
+INSERT OR REPLACE INTO TranslationEntity(translationKey, translationLanguage, translationId, active, translationValue)
+VALUES (?,?,?, ?, ?);
+
+deleteAll:
+DELETE FROM TranslationEntity;

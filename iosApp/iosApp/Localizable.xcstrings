@@ -1,0 +1,43 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Cancel" : {
+
+    },
+    "Extend" : {
+
+    },
+    "Incapacitation timer:" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Make a red alert" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make a red alert"
+          }
+        }
+      }
+    },
+    "Red Alert" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red Alert"
+          }
+        }
+      }
+    },
+    "myprotect Mobile - now" : {
+
+    }
+  },
+  "version" : "1.0"
+}

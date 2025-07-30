@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '16.2'
+
+pod 'shared', :path => '../shared/'
+
+target 'iosApp' do
+  #Development-specific pods
+end
+
+target 'IncapacitationExtension' do
+  #Development-specific pods
+end

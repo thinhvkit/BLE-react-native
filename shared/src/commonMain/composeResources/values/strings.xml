@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">myprotect Mobile</string>
+    <string name="incapacitationAlert">Incapacitation Alert</string>
+    <string name="incapacitationAlertDesc">The Monitoring Centre has been contacted. If you no longer required assistance, please cancel the alert using the button below</string>
+    <!-- General Action -->
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="continues">Continue</string>
+    <!-- Permission -->
+    <string name="permission_title">Permissions</string>
+    <string name="permission_sub_title">In order for myprotect to provide your lone worker service, we require the following permissions to be granted</string>
+    <string name="cancel_incapacitation">Cancel Incapacitation</string>
+    <string name="cancel_dialog_permissions">All these permissions are required to provide your lone worker service. Click back to change your selection or close the app.</string>
+    <string name="cancel_dialog_title">Are you sure?</string>
+    <string name="phone_type">Phone</string>
+    <string name="phone_type_desc">We use phone calls to raise alerts</string>
+    <string name="location_type">Background Location</string>
+    <string name="location_type_desc">We use this to direct assistance to you when you raise a Red Alert (Enabling privacy mode in your phone settings will prevent anyone other than the alarm handler seeing your location)</string>
+    <string name="notification_type">Notification</string>
+    <string name="notification_type_desc">Notification may include alerts sounds and icon badges. These can be configured in Settings.</string>
+    <string name="appear_on_top_type">Appear on Top</string>
+    <string name="appear_on_top_type_desc">Appear on Top must be enable to allow calls to be made during the event of incapacitation.</string>
+    <string name="battery_type">Battery</string>
+    <string name="battery_type_desc">Battery optimization must be disabled to allow location information to be captured consistently.</string>
+    <string name="bluetooth_type">Bluetooth</string>
+    <string name="bluetooth_type_desc">Bluetooth must be ON when compatible myprotect accessories are being used. This is a communication between the accessory and the application remain open to allow alerts to be raised.</string>
+   
+    <!--Device Setup -->
+    <string name="device_setup_sub_title">Available Devices</string>
+    <string name="device_setup_dialog_title">Complete Setup</string>
+    <string name="device_setup_dialog_sub">Quick press button 3 times to complete your setup</string>
+    <string name="device_setup_detail">Device Detail</string>
+    <string name="remove_device">Remove Device</string>
+    <string name="device_setup_detail_title">Bluetooth Button</string>
+    <string name="keeping_you_safe">Keeping you safe</string>
+
+</resources>
