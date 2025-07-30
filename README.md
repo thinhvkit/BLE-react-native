@@ -281,7 +281,7 @@ make sure ```podfile = project.file("../iosApp/Podfile")``` is commented
 
 ### Features
 
-- **Login:** Launching the app with an email address set up on myproject Insights.
+- **Login:** Launching the app with an email address.
 - **Red Alert:** 24/7 emergency panic alarm, designed to quickly and discreetly get help to your lone workers at the press of a button.
 - **Check-In:** Allows a user to record a short message, providing information about their location and activity to inform any subsequent alerts..
 - **Ready2Talk:** Support workers in situations where there’s a clear safety risk.
