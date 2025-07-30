@@ -282,10 +282,10 @@ make sure ```podfile = project.file("../iosApp/Podfile")``` is commented
 ### Features
 
 - **Login:** Launching the app with an email address.
-- **Red Alert:** 24/7 emergency panic alarm, designed to quickly and discreetly get help to your lone workers at the press of a button.
+- **Emergency Alert:** 24/7 emergency panic alarm, designed to quickly and discreetly get help to your lone workers at the press of a button.
 - **Check-In:** Allows a user to record a short message, providing information about their location and activity to inform any subsequent alerts..
-- **Ready2Talk:** Support workers in situations where there’s a clear safety risk.
-- **Incapacitation Alert:** Automatically raise an incapacition alert if you suffer a slip, trip or fall.
+- **TalkLive:** Support workers in situations where there’s a clear safety risk.
+- **Warning Alert:** Automatically raise an warning alert if you suffer a slip, trip or fall.
 	- Android: [Foreground Service](https://developer.android.com/develop/background-work/services/foreground-services)
 	- iOS: [Live Activity](https://developer.apple.com/documentation/activitykit/displaying-live-data-with-live-activities)
 	
