@@ -144,18 +144,12 @@ The Jetpack Compose Multiplatform myproject Application is built using the Clean
 │                           │   │       ├── LoginEmailState.kt
 │                           │   │       └── LoginEmailViewModel.kt
 │                           │   ├── step2
-│                           │   │   ├── LoginEmailOTPScreen.kt
-│                           │   │   └── view_model
-│                           │   │       ├── LoginEmailOTPEvent.kt
-│                           │   │       ├── LoginEmailOTPState.kt
-│                           │   │       └── LoginEmailOTPViewModel.kt
-│                           │   ├── step3
 │                           │   │   ├── LoginPhoneScreen.kt
 │                           │   │   └── view_model
 │                           │   │       ├── LoginPhoneEvent.kt
 │                           │   │       ├── LoginPhoneState.kt
 │                           │   │       └── LoginPhoneViewModel.kt
-│                           │   ├── step4
+│                           │   ├── step3
 │                           │   │   ├── LoginPhoneOTPScreen.kt
 │                           │   │   └── view_model
 │                           │   │       ├── LoginPhoneOTPEvent.kt
@@ -169,28 +163,8 @@ The Jetpack Compose Multiplatform myproject Application is built using the Clean
 │                           │   │       ├── LanguageAndTimezoneEvent.kt
 │                           │   │       ├── LanguageAndTimezoneState.kt
 │                           │   │       └── LanguageAndTimezoneViewModel.kt
-│                           │   ├── medical_details
-│                           │   │   ├── MedicalDetailsScreen.kt
-│                           │   │   └── view_model
-│                           │   │       ├── MedicalDetailsEvent.kt
-│                           │   │       ├── MedicalDetailsState.kt
-│                           │   │       └── MedicalDetailsViewModel.kt
-│                           │   ├── personal_details
-│                           │   │   ├── PersonalDetailsScreen.kt
-│                           │   │   └── view_model
-│                           │   │       ├── PersonalDetailsEvent.kt
-│                           │   │       ├── PersonalDetailsState.kt
-│                           │   │       └── PersonalDetailsViewModel.kt
 │                           ├── main
 │                           │   ├── MainNav.kt
-│                           │   ├── timer
-│                           │   │   ├── CountDownTimerHelper.kt
-│                           │   │   ├── TimerComponent.kt
-│                           │   │   ├── TimerManager.kt
-│                           │   │   └── view_model
-│                           │   │       ├── TimerEvent.kt
-│                           │   │       ├── TimerState.kt
-│                           │   │       └── TimerViewModel.kt
 │                           │   └── view_model
 │                           │       ├── MainEvent.kt
 │                           │       ├── MainState.kt
